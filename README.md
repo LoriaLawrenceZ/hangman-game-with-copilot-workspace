@@ -1,2 +1,1 @@
-# hangman-game-with-copilot-workspace
-A simple hangman game implemented in Java
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
